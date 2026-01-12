@@ -4,9 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-miranda-58a79b19b/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/pedro5miranda)</br>
 
-### GitHUB
-![GitHub_stats](https://github-readme-stats.vercel.app/api?username=Pmirandadev&show_icons=true&theme=radical)</br>
-
 ### Tecnologias que estou utilizando e gostaria de me aprofundar
 <div style="display: inline-block"></br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
